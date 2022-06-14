@@ -51,7 +51,7 @@ footer p {
 
 @font-face { 
   font-family: "iA Writer Duospace";
-  src: url("fonts/iAWriterDuoS-Regular.woff2); 
+  src: url("fonts/iAWriterDuoS-Regular.woff2"); 
   }
 
 @media (min-width: 600px) {
