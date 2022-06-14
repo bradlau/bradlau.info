@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bradlau
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bradlau.info
+  * I am bradlau (https://keybase.io/bradlau) on keybase.
+  * I have a public key ASCoFTDrOBSlg8Pklt1i3SpmhihX6ulsevgO2oDFH90iugo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b5136c1bc276fa20fd47f8f1a760a941d408337a1c8a41bf41c99737a23fad040a",
+      "host": "keybase.io",
+      "kid": "0120a81530eb3814a583c3e496dd62dd2a66862857eae96c7af80eda80c51fdd22ba0a",
+      "uid": "3ded5ca746cb7c86fd4919741d5d5019",
+      "username": "bradlau"
+    },
+    "merkle_root": {
+      "ctime": 1655173889,
+      "hash": "956ccd67ebd9907396698d496b8ee3c98d9ca193fca27f0f48134474c17ed434cb57ae4d1381d6ed3f7df68a96b494be702a242b0abbad390ae0c6d04f48d94b",
+      "hash_meta": "99b544119c0c9cb839a069af97131f0c672c38a0f18f018c3658a2ffd7721596",
+      "seqno": 22669056
+    },
+    "service": {
+      "entropy": "/fw/X4CyAXqWwaj107wYnz9t",
+      "hostname": "bradlau.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1655173920,
+  "expire_in": 504576000,
+  "prev": "19e4bf0cf4b3a328d338c3a2aa49616dd5189e4b6c147be9e960af3ad9bb7393",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqBUw6zgUpYPD5JbdYt0qZoYoV+rpbHr4DtqAxR/dIroKp3BheWxvYWTESpcCH8QgGeS/DPSzoyjTOMOiqklhbdUYnktsFHvp6WCvOtm7c5PEIAAGLFWjbIljn+yAP3fVd2MQuAvdvMu9PKwoW6vZ/jApAgHCo3NpZ8RAwL3/nFN/3FQddCMNqIejqfD81AQzly1N6CM2G2StWXCYKN/8QlcwmBEGJVaMaDCvtEyx61nYSj6/8RWTyUjNB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINJXpQ6IDotX0Lz1nX+QrN7W/bH2KMj1/kZMQSfZk+smo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bradlau
+
+==================================================================
