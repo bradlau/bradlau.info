@@ -34,10 +34,9 @@ img.headshot {
   background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 50%;
-  shape-outside: circle(50%);
+  float: right;
   padding: 5px;
   width: 8em;
-  float: right;
   }
 
 
