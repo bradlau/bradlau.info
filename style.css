@@ -1,17 +1,17 @@
 body {
   background-color: #eee;
   color: #333;
-  font-family: monospace;
-  font-size: 18px;
+  font-family: "iA Writer Duospace", monospace;
+  font-size: 16px;
   line-height: 1.8;
   margin: 0px auto;
   max-width: 34em;
   padding: 30px;
-  }
+}
 
 p {
   margin: 0 0 1.8em 0;
-  }
+}
 
 a,
 a:visited {
@@ -19,16 +19,16 @@ a:visited {
   text-decoration: underline;
   text-decoration-color: #e86af0;
   text-underline-offset: 0.1em;
-  }
+}
 
 a:hover {
   text-decoration-color: #9e379f;
-  }
+}
 
 .emoji {
   display: block;
   font-size: 32px;
-  }
+}
 
 img.headshot {
   background-color: #fff;
@@ -37,16 +37,16 @@ img.headshot {
   float: right;
   padding: 5px;
   width: 8em;
-  }
+}
 
 
 footer p {
-  margin-top: 6em;
-  padding-top: 1em;
   border-top: 1px solid #ccc;
   color: #777;
-  font-size: 15px;
-  }
+  font-size: 14px;
+  margin-top: 6em;
+  padding-top: 1em;
+}
 
 @font-face { 
   font-family: "iA Writer Duospace";
@@ -55,17 +55,17 @@ footer p {
 
 @media (min-width: 600px) {
   body {
-    font-size: 18px;
+    font-size: 16px;
     padding: 80px 40px 20px 40px;
     }
 
   .emoji {
-    font-size: 32px;
     float: left;
+    font-size: 32px;
     margin-top: -0.25em;
     }
 
   p {margin-left: 3.2em;}
   
   footer {margin-left: 0.6em;}
-  }
+}
