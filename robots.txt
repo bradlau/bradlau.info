@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/
+Disallow: /fonts/
+Sitemap: https://bradlau.info/sitemap.xml
