@@ -80,10 +80,14 @@ img.headshot {
   color: #fff;
   }
 
-#navbar li {
+li#navbar {
   display:inline;
   }
 
+ul#navbar  {
+  padding: 0;
+  list-style-type: none;
+  }
 
 p {
   margin: 0 0 1.8em 0;
