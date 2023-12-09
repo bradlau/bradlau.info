@@ -39,11 +39,12 @@ a.current-nav:link, a.current-nav:visited {
 footer {margin-top: 6rem;}
 
 .footer-logo {
+  border: 2px solid #222222;
   border-radius: 50%;
-  height: 1.5rem; 
-  margin-right: 1rem; 
+  height: 1.7rem; 
+  margin-right: .5rem; 
   vertical-align: middle; 
-  width: 1.5rem;
+  width: 1.7rem;
   }
 
 footer p {
