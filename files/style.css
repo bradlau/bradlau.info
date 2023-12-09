@@ -38,7 +38,7 @@ a.current-nav:link, a.current-nav:visited {
 
 footer {margin-top: 6rem;}
 
-.footer-logo {height:.5rem; vertical-align:middle; width:.5rem;}
+.footer-logo {height: 1rem; vertical-align: middle; width: 1rem;}
 
 footer p {
   border-top: 1px solid #CCCCCC;
