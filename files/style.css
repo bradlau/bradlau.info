@@ -2,7 +2,7 @@ html {font-size: 100%;}
 
 body {
   background: linear-gradient(to bottom, #FBFBFB, #EEEEEE);
-  color: #333333;
+  color: #232323;
   font-family: Manrope, sans-serif;
   font-size: 1.1rem;
   font-weight: 300;
@@ -20,7 +20,7 @@ a:link, a:visited {
 a:hover {text-decoration-color: #9e379f;}
 
 a.current-nav:link, a.current-nav:visited {
-  color: #333333;
+  color: #232323;
   text-decoration: none; 
   }
 
@@ -39,7 +39,7 @@ a.current-nav:link, a.current-nav:visited {
 footer {margin-top: 6rem;}
 
 .footer-logo {
-  border: 2px solid #222222;
+  border: 2px solid #000000;
   border-radius: 50%;
   height: 1.7rem; 
   margin-right: .5rem; 
@@ -49,7 +49,7 @@ footer {margin-top: 6rem;}
 
 footer p {
   border-top: 1px solid #CCCCCC;
-  color: #777777;
+  color: #676767;
   font-size: .7rem;
   line-height: 1.4rem;
   margin: 0 2rem 0 1rem;
@@ -58,7 +58,7 @@ footer p {
   }
 
 h1 {font-family: "Manrope", sans-serif; font-size: 3rem; font-weight: 300; line-height: 3.5rem; margin: 0 0 .5rem 0;}
-h1 a:link, h1 a:visited {color: #333333; text-decoration: none;}
+h1 a:link, h1 a:visited {color: #232323; text-decoration: none;}
 h2 {font-size: 2.2rem; font-weight: 300; margin: 2.6rem 0 .5rem 0;}
 h3 {font-size: 1.8rem; font-weight: 300; margin: 2.2rem 0 .1rem 0;}
 h4 {font-size: 1.4rem; font-weight: 400; margin: 1.8rem 0 .1rem 0;}
