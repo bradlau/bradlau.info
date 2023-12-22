@@ -21,6 +21,7 @@ a:hover {text-decoration-color: #9e379f;}
 
 a.current-nav:link, a.current-nav:visited {
   color: #232323;
+  font-weight: 300;
   text-decoration: none; 
   }
 
