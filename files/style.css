@@ -25,6 +25,13 @@ a.current-nav:link, a.current-nav:visited {
   text-decoration: none; 
   }
 
+.about-pic {
+  border-radius: 50%;
+  height: 2rem;
+  margin: 0rem 2rem 0rem 0rem;
+  width: 2rem;
+  }
+
 .content {
   margin: 2rem auto 2rem 1rem;
   max-width: 50rem;
