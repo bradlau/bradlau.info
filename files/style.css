@@ -110,7 +110,7 @@ hr {
   }
 
 nav {display: flex;}
-nav p {margin-right: 2rem;}
+nav p {font-weight: 500; margin-right: 2rem;}
 
 p {margin: .3rem 0 1rem 0;}
 
