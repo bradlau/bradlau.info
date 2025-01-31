@@ -17,7 +17,7 @@ a:link, a:visited {
   text-underline-offset: 0.1rem;
   }
 
-a:hover {font-weight: 700; text-decoration-color: #9e379f;}
+a:hover {text-decoration-color: #9e379f;}
 
 a.current-nav:link, a.current-nav:visited {
   color: #232323;
