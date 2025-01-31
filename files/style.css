@@ -134,10 +134,10 @@ footer p {
   }
 
 h1 {font-family: "Lato", sans-serif; font-size: 2rem; font-weight: 600; line-height: 2.6rem; margin: 0 0 .5rem 0;}
-h2 {font-size: 1.6rem; font-weight: 400; margin: 2.3rem 0 .5rem 0;}
-h3 {font-size: 1.3rem; font-weight: 400; margin: 2.1rem 0 .1rem 0;}
-h4 {font-size: 1rem; font-weight: 400; margin: 1.8rem 0 .1rem 0;}
-h5 {font-size: .8rem; font-weight: 400; margin: 1.2rem 0 0 0;}
+h2 {font-size: 1.6rem; font-weight: 500; margin: 2.3rem 0 .5rem 0;}
+h3 {font-size: 1.3rem; font-weight: 500; margin: 2.1rem 0 .1rem 0;}
+h4 {font-size: 1rem; font-weight: 500; margin: 1.8rem 0 .1rem 0;}
+h5 {font-size: .8rem; font-weight: 500; margin: 1.2rem 0 0 0;}
 
 .h3-space {margin-top: .8rem;}
 
