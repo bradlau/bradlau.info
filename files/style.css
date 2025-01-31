@@ -33,14 +33,14 @@ a.current-nav:link, a.current-nav:visited {
 
 @font-face {
   font-family: 'Lato';
-  src: url(files/fonts/LatoLatin-Light.woff2) format('woff2');
+  src: URL("files/fonts/LatoLatin-Light.woff2") format("woff2");
   font-style: normal;
   font-weight: 300;
   }
 
 @font-face {
   font-family: 'Lato';
-  src: url(files/fonts/LatoLatin-Regular.woff2) format('woff2');
+  src: URL("files/fonts/LatoLatin-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
   }
