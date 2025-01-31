@@ -17,11 +17,11 @@ a:link, a:visited {
   text-underline-offset: 0.1rem;
   }
 
-a:hover {text-decoration-color: #9e379f;}
+a:hover {font-weight: 700; text-decoration-color: #9e379f;}
 
 a.current-nav:link, a.current-nav:visited {
   color: #232323;
-  font-weight: 400;
+  font-weight: 700;
   text-decoration: none; 
   }
 
