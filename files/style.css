@@ -27,11 +27,13 @@ a.current-nav:link, a.current-nav:visited {
 
 .about-pic {
   border-radius: 50%;
-  float: left;
-  height: 2rem;
+  display: inline-block;
+  height: 4rem;
   margin: 0rem 2rem 0rem 0rem;
-  width: 2rem;
+  width: 4rem;
   }
+
+.about-summary {display: inline-block;}
 
 .content {
   margin: 2rem auto 2rem 1rem;
