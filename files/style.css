@@ -30,7 +30,6 @@ a.current-nav:link, a.current-nav:visited {
   max-width: 50rem;
   }
 
-
 @font-face {
   font-family: 'Lato';
   src: URL("files/fonts/LatoLatin-Light.woff2") format("woff2");
@@ -40,9 +39,23 @@ a.current-nav:link, a.current-nav:visited {
 
 @font-face {
   font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-LightItalic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 300;
+  }
+
+@font-face {
+  font-family: 'Lato';
   src: URL("files/fonts/LatoLatin-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
+  }
+
+@font-face {
+  font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
   }
 
 footer {margin-top: 4rem;}
@@ -65,12 +78,12 @@ footer p {
   vertical-align: middle;
   }
 
-h1 {font-family: "Lato", sans-serif; font-size: 2.4rem; font-weight: 400; line-height: 3rem; margin: 0 0 .5rem 0;}
+h1 {font-family: "Lato", sans-serif; font-size: 2rem; font-weight: 500; line-height: 3rem; margin: 0 0 .5rem 0;}
 h1 a:link, h1 a:visited {color: #232323; text-decoration: none;}
-h2 {font-size: 1.9rem; font-weight: 400; margin: 2.3rem 0 .5rem 0;}
-h3 {font-size: 1.7rem; font-weight: 400; margin: 2.1rem 0 .1rem 0;}
-h4 {font-size: 1.4rem; font-weight: 400; margin: 1.8rem 0 .1rem 0;}
-h5 {font-size: 1.1rem; font-weight: 300; margin: 1.2rem 0 0 0;}
+h2 {font-size: 1.7rem; font-weight: 400; margin: 2.3rem 0 .5rem 0;}
+h3 {font-size: 1.4rem; font-weight: 400; margin: 2.1rem 0 .1rem 0;}
+h4 {font-size: 1.1rem; font-weight: 400; margin: 1.8rem 0 .1rem 0;}
+h5 {font-size: .8rem; font-weight: 400; margin: 1.2rem 0 0 0;}
 
 .h3-space {margin-top: .8rem;}
 
