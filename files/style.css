@@ -42,6 +42,20 @@ a.current-nav:link, a.current-nav:visited {
 
 @font-face {
   font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Hairline.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100;
+  }
+
+@font-face {
+  font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Thin.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 200;
+  }
+
+@font-face {
+  font-family: 'Lato';
   src: URL("files/fonts/LatoLatin-Light.woff2") format("woff2");
   font-style: normal;
   font-weight: 300;
@@ -66,6 +80,34 @@ a.current-nav:link, a.current-nav:visited {
   src: URL("files/fonts/LatoLatin-Medium.woff2") format("woff2");
   font-style: normal;
   font-weight: 500;
+  }
+
+@font-face {
+  font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Semibold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 600;
+  }
+
+@font-face {
+  font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Bold.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  }
+
+@font-face {
+  font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Heavy.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  }
+
+@font-face {
+  font-family: 'Lato';
+  src: URL("files/fonts/LatoLatin-Black.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 900;
   }
 
 footer {margin-top: 4rem;}
@@ -112,7 +154,7 @@ hr {
   }
 
 nav {display: flex;}
-nav p {font-weight: 500; margin-right: 2rem;}
+nav p {font-weight: 700; margin-right: 2rem;}
 
 p {margin: .3rem 0 1rem 0;}
 
