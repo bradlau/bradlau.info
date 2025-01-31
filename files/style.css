@@ -28,9 +28,9 @@ a.current-nav:link, a.current-nav:visited {
 .about-pic {
   border-radius: 50%;
   float:left;
-  height: 4rem;
+  height: 6rem;
   margin: 0rem 2rem 0rem 0rem;
-  width: 4rem;
+  width: 6rem;
   }
 
 .about-summary {float:left;}
