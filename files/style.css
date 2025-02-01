@@ -26,6 +26,7 @@ a.current-nav:link, a.current-nav:visited {
   }
 
 .about-pic {
+  border: 2px solid #DDDDDD;
   border-radius: 50%;
   height: 8rem;
   margin: 0rem 1.6rem 0rem 0rem;
