@@ -35,7 +35,7 @@ a.current-nav:link, a.current-nav:visited {
 
 .about-intro {display: flex; align-items: top;}
 
-.about-intro p {font-weight: 500; font-size: 1.2rem;}
+.about-intro p {font-weight: 300; font-size: 1.1rem;}
 
 .content {
   margin: 0 auto 2rem 1rem;
@@ -133,16 +133,16 @@ footer p {
   vertical-align: middle;
   }
 
-h1 {font-family: "Lato", sans-serif; font-size: 2rem; font-weight: 600; line-height: 2.6rem; margin: 0 0 .3rem 0;}
-h2 {font-size: 1.6rem; font-weight: 600; margin: 2rem 0 .5rem 0;}
-h3 {font-size: 1.3rem; font-weight: 600; margin: 2.1rem 0 .1rem 0;}
-h4 {font-size: 1rem; font-weight: 600; margin: 1.8rem 0 .1rem 0;}
-h5 {font-size: .8rem; font-weight: 600; margin: 1.2rem 0 0 0;}
+h1 {font-family: "Lato", sans-serif; font-size: 2rem; font-weight: 600; line-height: 2.6rem; margin: 0;}
+h2 {font-size: 1.7rem; font-weight: 600; margin: 0;}
+h3 {font-size: 1.2rem; font-weight: 600; margin: 0;}
+h4 {font-size: 1rem; font-weight: 600; margin: 0;}
+h5 {font-size: .8rem; font-weight: 600; margin: 0;}
 
 .h3-space {margin-top: .8rem;}
 
 .hero {
-  margin: 1rem auto 2rem 1rem;
+  margin: 1rem auto 2.2rem 1rem;
   max-width: 50rem;
   }
 
@@ -151,15 +151,25 @@ hr {
   border: 0;
   border-radius: .2rem;
   height: 5px;
-  margin: 3rem 0 1rem 0;
+  margin: 3rem 0 2rem 0;
   }
 
 nav {display: flex;}
 nav p {font-weight: 700; margin-right: 2rem;}
 
+.now-update-title {margin: 1rem 0 0 0}
+.now-update-sub-title {margin: -1rem 0 0 1rem}
+
+.now-update-body {margin: 0 0 2rem 0}
+.now-update-sub-body {margin: 0 0 2rem 1rem}
+
 p {margin: .3rem 0 1rem 0;}
+
+.professional-bio {margin-top: 1rem;}
+
+strong {font-weight: bolder;}
 
 ul {margin: .5rem 0 1rem 0;}
 ul ul {margin: 0 0 1rem 0; padding: 0 0 0 1.5rem;}
 
-.updated {color: #676767; font-size: .8rem; font-style: italic; margin: .5rem 0;}
+.updated {color: #676767; font-size: .8rem; font-style: italic; margin: .3rem 0 0 0;}
