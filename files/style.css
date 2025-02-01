@@ -33,7 +33,7 @@ a.current-nav:link, a.current-nav:visited {
   width: 8rem;
   }
 
-.about-intro {display: flex; align-items: center;}
+.about-intro {display: flex; align-items: end;}
 
 .about-intro p {font-weight: 500; font-size: 1.3rem;}
 
