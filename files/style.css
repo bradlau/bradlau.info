@@ -29,13 +29,13 @@ a.current-nav:link, a.current-nav:visited {
   border: 2px solid #DDDDDD;
   border-radius: 50%;
   height: 8rem;
-  margin: 0rem 1.6rem 0rem 0rem;
+  margin: 0 1.6rem 0 0;
   width: 8rem;
   }
 
-.about-intro {display: flex; align-items: end;}
+.about-intro {display: flex; align-items: top;}
 
-.about-intro p {font-weight: 500; font-size: 1.3rem;}
+.about-intro p {font-weight: 500; font-size: 1.2rem;}
 
 .content {
   margin: 0 auto 2rem 1rem;
@@ -162,4 +162,4 @@ p {margin: .3rem 0 1rem 0;}
 ul {margin: .5rem 0 1rem 0;}
 ul ul {margin: 0 0 1rem 0; padding: 0 0 0 1.5rem;}
 
-.updated {color: #676767; font-size: .8rem; font-style: italic; margin: .5rem 0 1rem 0;}
+.updated {color: #676767; font-size: .8rem; font-style: italic; margin: .5rem 0;}
