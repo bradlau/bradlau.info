@@ -25,7 +25,7 @@ a.current-nav:link, a.current-nav:visited {
   text-decoration: none; 
   }
 
-.about-pic {
+.about-intro img {
   border: 2px solid #DDDDDD;
   border-radius: 50%;
   height: 8rem;
@@ -33,10 +33,9 @@ a.current-nav:link, a.current-nav:visited {
   width: 8rem;
   }
 
-.about-intro {
-  display: flex;
-  align-items: center;
-  }
+.about-intro {display: flex; align-items: center;}
+
+.about-intro p {font-weight: 500; font-size: 1.3rem;}
 
 .content {
   margin: 0 auto 2rem 1rem;
