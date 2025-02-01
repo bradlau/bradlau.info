@@ -39,7 +39,7 @@ a.current-nav:link, a.current-nav:visited {
   }
 
 .content {
-  margin: 1rem auto 2rem 1rem;
+  margin: 0 auto 2rem 1rem;
   max-width: 50rem;
   }
 
