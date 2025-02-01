@@ -13,17 +13,24 @@ body {
 a:link, a:visited {
   color: #9e379f;
   text-decoration: underline;
-  text-decoration-color: #e86af0;
-  text-underline-offset: 0.1rem;
+  text-decoration-color: #e86af0;  
   }
-
-a:hover {text-decoration-color: #9e379f;}
 
 a.current-nav:link, a.current-nav:visited {
   color: #232323;
   font-weight: 700;
-  text-decoration: none; 
+  text-decoration: underline; 
+  text-decoration-color: #232323;
+  text-underline-offset: 0.2rem;
+  text-decoration-thickness: 2px;
   }
+
+a.other-nav:link, a.other-nav:visited {
+  text-decoration: none;   
+  }
+
+a:hover {text-decoration-color: #9e379f;}
+
 
 .about-intro img {
   border: 2px solid #DDDDDD;
