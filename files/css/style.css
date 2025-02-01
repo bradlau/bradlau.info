@@ -157,10 +157,10 @@ hr {
 nav {display: flex;}
 nav p {font-weight: 700; margin-right: 2rem;}
 
-.now-update-title {margin: 1rem 0 0 0}
+.now-update-title {margin: 1.1rem 0 0 0}
 .now-update-sub-title {margin: -1rem 0 0 1rem}
 
-.now-update-body {margin: 0 0 2rem 0}
+.now-update-body {margin: 0 0 1.5rem 0}
 .now-update-sub-body {margin: 0 0 2rem 1rem}
 
 p {margin: .3rem 0 1rem 0;}
