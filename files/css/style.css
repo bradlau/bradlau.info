@@ -1,4 +1,4 @@
-html {font-size: 100%;}
+html {font-size: 100%; height: 100%;}
 
 body {
   background: linear-gradient(to bottom, #FBFBFB, #EEEEEE);
@@ -7,6 +7,7 @@ body {
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.6rem;
+  min-height: 100%;
   padding: 1rem;
   }
 
@@ -32,6 +33,15 @@ a.other-nav:link, a.other-nav:visited {
 a:hover {text-decoration-color: #9e379f;}
 
 
+.about-intro {
+  align-items: top; 
+  container-name: about-intro-container;
+  container-type: inline-size;
+  display: flex; 
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  }
+
 .about-intro img {
   border: 2px solid #DDDDDD;
   border-radius: 50%;
@@ -40,9 +50,7 @@ a:hover {text-decoration-color: #9e379f;}
   width: 8rem;
   }
 
-.about-intro {align-items: top; display: flex; margin-bottom: 1rem;}
-
-.about-intro p {font-weight: 300; font-size: 1.1rem;}
+.about-intro p {font-weight: 300; font-size: 1.1rem; width: 60%;}
 
 .content {
   margin: 0 auto 2rem 1rem;
