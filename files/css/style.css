@@ -4,6 +4,7 @@
   --dark-color-muted: #999999;
   --dark-headshot-border: #343434;
   --dark-hr: #232323;
+  --dark-logo: url('/files/brand/bradlau-logo-2025.svg');
   --light-bg: #FFFFFF;
   --light-color: #232323;
   --light-color-muted: #676767;
@@ -11,6 +12,7 @@
   --light-hr: #EEEEEE;
   --light-hover: #e86af0;
   --light-link: #9e379f;
+  --light-logo: url('/files/brand/bradlau-logo-2025.svg');
 }
 
 html {font-size: 100%;}
