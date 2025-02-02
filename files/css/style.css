@@ -1,7 +1,7 @@
 html {font-size: 100%;}
 
 body {
-  background: linear-gradient(to bottom, #FBFBFB, #EEEEEE);
+  background: #FFFFFF;
   color: #232323;
   font-family: Lato, sans-serif;
   font-size: 1rem;
@@ -31,11 +31,8 @@ a.other-nav:link, a.other-nav:visited {
 
 a:hover {text-decoration-color: #9e379f;}
 
-
 .about-intro {
   align-items: top; 
-  container-name: about-intro-container;
-  container-type: inline-size;
   display: flex; 
   flex-wrap: wrap;
   margin-bottom: 1rem;
@@ -49,7 +46,7 @@ a:hover {text-decoration-color: #9e379f;}
   width: 8rem;
   }
 
-.about-intro p {font-weight: 300; font-size: 1.1rem; width: 23rem;}
+.about-intro p {font-weight: 300; font-size: 1.1rem; min-width: 18rem; max-width: 50rem;}
 
 .content {
   margin: 0 auto 2rem 1rem;
@@ -126,25 +123,27 @@ a:hover {text-decoration-color: #9e379f;}
   font-weight: 900;
   }
 
-footer {margin-top: 4rem;}
+footer {
+  align-items: center;
+  border-top: 1px solid #CCCCCC;
+  display: flex; 
+  margin: 4rem 0 0 1rem;
+  max-width: 50rem;
+  }
 
-.footer-logo {
+footer img {
   border-radius: 50%;
   height: 1.5rem; 
-  margin-right: .5rem; 
-  vertical-align: middle; 
+  margin: .5rem; 
   width: 1.5rem;
   }
 
 footer p {
-  border-top: 1px solid #CCCCCC;
   color: #676767;
   font-size: .8rem;
   font-weight: 300;
-  line-height: 1.4rem;
-  margin: 0 2rem 0 1rem;
-  padding-top: 1rem;
-  vertical-align: middle;
+  line-height: 1rem;
+  margin: 0;
   }
 
 h1 {font-family: "Lato", sans-serif; font-size: 2rem; font-weight: 600; line-height: 2.6rem; margin: 0;}
@@ -187,3 +186,4 @@ ul {margin: .5rem 0 1rem 0;}
 ul ul {margin: 0 0 1rem 0; padding: 0 0 0 1.5rem;}
 
 .updated {color: #676767; font-size: .8rem; font-style: italic; margin: .3rem 0 0 0;}
+
