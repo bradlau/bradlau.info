@@ -32,21 +32,30 @@ a.other-nav:link, a.other-nav:visited {
 a:hover {text-decoration-color: #9e379f;}
 
 .about-intro {
-  align-items: top; 
-  display: flex; 
-  flex-wrap: wrap;
+  align-items: center; 
+  /* display: flex; --> */
+  display: grid;
+  grid: auto-flow / 8rem 1fr;
   margin-bottom: 1rem;
   }
 
 .about-intro img {
   border: 2px solid #DDDDDD;
   border-radius: 50%;
-  height: 8rem;
-  margin: 0 1.6rem 0 0;
-  width: 8rem;
+  margin: 0 1rem 0 0;
+  width: 7rem;
   }
 
-.about-intro p {font-weight: 300; font-size: 1.1rem; min-width: 18rem; max-width: 50rem;}
+.about-intro p {
+  min-width: 16rem; 
+  max-width: 40rem;
+  }
+
+@media (max-width: 500px) {
+  .about-intro {grid-template-columns: 1fr;}
+  .about-intro img {margin: 0 auto;}
+  .about-intro p {text-align: center;}
+  }
 
 .content {
   max-width: 50rem;
