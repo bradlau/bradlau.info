@@ -49,7 +49,6 @@ a:hover {text-decoration-color: #9e379f;}
 .about-intro p {font-weight: 300; font-size: 1.1rem; min-width: 18rem; max-width: 50rem;}
 
 .content {
-  margin: 0 auto 2rem 1rem;
   max-width: 50rem;
   }
 
@@ -126,7 +125,7 @@ a:hover {text-decoration-color: #9e379f;}
 footer {
   border-top: 1px solid #CCCCCC;
   display: flex; 
-  margin: 4rem 0 0 1rem;
+  margin-top: 4rem;
   max-width: 50rem;
   }
 
@@ -154,7 +153,7 @@ h5 {font-size: .8rem; font-weight: 600; margin: 0;}
 .h3-space {margin-top: .8rem;}
 
 .hero {
-  margin: 1rem auto 2.2rem 1rem;
+  margin: 0 0 2.2rem 0;
   max-width: 50rem;
   }
 
